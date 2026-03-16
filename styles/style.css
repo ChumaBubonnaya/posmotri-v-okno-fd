@@ -283,11 +283,6 @@ ol {
   outline: 1px solid #fff;
 }
 
-.search-form__label:has(:focus-visible) {
-  outline: 1px solid #fff;
-  outline-offset: 1px;
-}
-
 .button {
   border: 1px solid #fff;
   height: 34px;
